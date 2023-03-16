@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/Flag.png</file>
+        <file>resources/Mine.png</file>
+        <file>resources/questionmark.png</file>
+        <file>resources/MF.png</file>
+        <file>resources/MQ.png</file>
+        <file>resources/background.png</file>
+        <file>resources/bac.png</file>
+        <file>resources/back.png</file>
+        <file>resources/blueliine.png</file>
+    </qresource>
+</RCC>
